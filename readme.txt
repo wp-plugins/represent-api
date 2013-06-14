@@ -16,7 +16,7 @@ The Represent API plugin allows developers to easily create plugins that harness
 
 The Represent API plugin only provides a mechanism for plugin developers to query the [Represent API](http://represent.opennorth.ca/api/). It is mainly intended as a launch point for developers to create plugins that harness the Represent API.
 
-This module's is developed by [Open North](http://opennorth.ca/).
+This module is developed by [Open North](http://opennorth.ca/).
 
 == Installation ==
 
