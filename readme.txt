@@ -12,9 +12,9 @@ The Represent API plugin allows developers to easily create plugins that harness
 
 == Description ==
 
-[Represent](http://represent.opennorth.ca/) is the largest database of elected officials in Canada, and offers the most comprehensive postal code lookup service for elected officials at the federal, provincial and municipal levels of government.
+[Represent](https://represent.opennorth.ca/) is the largest database of elected officials in Canada, and offers the most comprehensive postal code lookup service for elected officials at the federal, provincial and municipal levels of government.
 
-The Represent API plugin only provides a mechanism for plugin developers to query the [Represent API](http://represent.opennorth.ca/api/). It is mainly intended as a launch point for developers to create plugins that harness the Represent API.
+The Represent API plugin only provides a mechanism for plugin developers to query the [Represent API](https://represent.opennorth.ca/api/). It is mainly intended as a launch point for developers to create plugins that harness the Represent API.
 
 This module is developed by [Open North](http://opennorth.ca/).
 

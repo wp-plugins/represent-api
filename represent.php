@@ -29,8 +29,8 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  * @file
  *   Send request to the Represent API.
  *
- * @see http://represent.opennorth.ca/
- * @see http://represent.opennorth.ca/api/
+ * @see https://represent.opennorth.ca/
+ * @see https://represent.opennorth.ca/api/
  */
 
 // Make sure we don't expose any info if called directly
@@ -194,7 +194,7 @@ function represent_send_request( $path ) {
     return $cache;
   }
 
-  $response = wp_remote_get( "http://represent.opennorth.ca/$path" );
+  $response = wp_remote_get( "https://represent.opennorth.ca/$path" );
   if ( is_wp_error( $response ) || 200 != wp_remote_retrieve_response_code( $response ) ) {
     return FALSE;
   }
