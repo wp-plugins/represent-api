@@ -25,6 +25,10 @@ This module is developed by [Open North](http://opennorth.ca/).
 
 == Changelog ==
 
+= 1.1 =
+
+Use HTTPS
+
 = 1.0 =
 
 Initial release

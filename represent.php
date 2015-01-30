@@ -3,7 +3,7 @@
 Plugin Name: Represent API
 Plugin URI: http://wordpress.org/plugins/represent-api/
 Description: The Represent API plugin allows developers to easily create plugins that harness the Represent API.
-Version: 1.0
+Version: 1.1
 Author: Open North Inc.
 Author URI: http://opennorth.ca/
 License: GPLv2 or later
